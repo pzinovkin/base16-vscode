@@ -2,13 +2,12 @@
     "name": "base16-themes",
     "displayName": "Base16 Themes",
     "description": "Base 16 themes ported from TextMate/Sublime",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "publisher": "AndrsDC",
     "keywords": [
         "base16",
         "dark",
-        "light",
-        "themes"
+        "light"
     ],
     "engines": {
         "vscode": "^1.0.0"
@@ -16,11 +15,20 @@
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/AndrsDC/base16-vscode/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AndrsDC/base16-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AndrsDC/base16-vscode/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
     "contributes": {
         "themes": [
             {
                 "label": "Base16 3024 Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-3024.dark.tmTheme"
             },
             {
@@ -30,7 +38,7 @@
             },
             {
                 "label": "Base16 Apathy Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-apathy.dark.tmTheme"
             },
             {
@@ -40,7 +48,7 @@
             },
             {
                 "label": "Base16 Ashes Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-ashes.dark.tmTheme"
             },
             {
@@ -50,7 +58,7 @@
             },
             {
                 "label": "Base16 Atelier Dune Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-atelierdune.dark.tmTheme"
             },
             {
@@ -60,7 +68,7 @@
             },
             {
                 "label": "Base16 Atelier Forest Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-atelierforest.dark.tmTheme"
             },
             {
@@ -70,7 +78,7 @@
             },
             {
                 "label": "Base16 Atelier Heath Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-atelierheath.dark.tmTheme"
             },
             {
@@ -80,7 +88,7 @@
             },
             {
                 "label": "Base16 Atelier Lakeside Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-atelierlakeside.dark.tmTheme"
             },
             {
@@ -90,7 +98,7 @@
             },
             {
                 "label": "Base16 Atelier Seaside Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-atelierseaside.dark.tmTheme"
             },
             {
@@ -100,7 +108,7 @@
             },
             {
                 "label": "Base16 Bespin Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-bespin.dark.tmTheme"
             },
             {
@@ -110,7 +118,7 @@
             },
             {
                 "label": "Base16 Brewer Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-brewer.dark.tmTheme"
             },
             {
@@ -120,7 +128,7 @@
             },
             {
                 "label": "Base16 Bright Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-bright.dark.tmTheme"
             },
             {
@@ -130,7 +138,7 @@
             },
             {
                 "label": "Base16 Chalk Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-chalk.dark.tmTheme"
             },
             {
@@ -140,7 +148,7 @@
             },
             {
                 "label": "Base16 Codeschool Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-codeschool.dark.tmTheme"
             },
             {
@@ -150,7 +158,7 @@
             },
             {
                 "label": "Base16 Colors Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-colors.dark.tmTheme"
             },
             {
@@ -160,7 +168,7 @@
             },
             {
                 "label": "Base16 Default Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-default.dark.tmTheme"
             },
             {
@@ -170,7 +178,7 @@
             },
             {
                 "label": "Base16 Eighties Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-eighties.dark.tmTheme"
             },
             {
@@ -180,7 +188,7 @@
             },
             {
                 "label": "Base16 Embers Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-embers.dark.tmTheme"
             },
             {
@@ -190,7 +198,7 @@
             },
             {
                 "label": "Base16 Flat Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-flat.dark.tmTheme"
             },
             {
@@ -200,7 +208,7 @@
             },
             {
                 "label": "Base16 Google Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-google.dark.tmTheme"
             },
             {
@@ -210,7 +218,7 @@
             },
             {
                 "label": "Base16 Grayscale Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-grayscale.dark.tmTheme"
             },
             {
@@ -220,7 +228,7 @@
             },
             {
                 "label": "Base16 Greenscreen Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-greenscreen.dark.tmTheme"
             },
             {
@@ -230,7 +238,7 @@
             },
             {
                 "label": "Base16 Harmonic16 Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-harmonic16.dark.tmTheme"
             },
             {
@@ -240,7 +248,7 @@
             },
             {
                 "label": "Base16 Isotope Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-isotope.dark.tmTheme"
             },
             {
@@ -250,7 +258,7 @@
             },
             {
                 "label": "London Tube Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-londontube.dark.tmTheme"
             },
             {
@@ -260,7 +268,7 @@
             },
             {
                 "label": "Base16 Marrakesh Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-marrakesh.dark.tmTheme"
             },
             {
@@ -270,7 +278,7 @@
             },
             {
                 "label": "Base16 Mocha Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-mocha.dark.tmTheme"
             },
             {
@@ -280,7 +288,7 @@
             },
             {
                 "label": "Base16 Monokai Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-monokai.dark.tmTheme"
             },
             {
@@ -290,7 +298,7 @@
             },
             {
                 "label": "Base16 Ocean Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-ocean.dark.tmTheme"
             },
             {
@@ -300,7 +308,7 @@
             },
             {
                 "label": "Base16 Paraiso Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-paraiso.dark.tmTheme"
             },
             {
@@ -310,7 +318,7 @@
             },
             {
                 "label": "Base16 Pop Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-pop.dark.tmTheme"
             },
             {
@@ -320,7 +328,7 @@
             },
             {
                 "label": "Base16 Railscasts Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-railscasts.dark.tmTheme"
             },
             {
@@ -330,7 +338,7 @@
             },
             {
                 "label": "Base16 Shapeshifter Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-shapeshifter.dark.tmTheme"
             },
             {
@@ -340,7 +348,7 @@
             },
             {
                 "label": "Base16 Solarized Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-solarized.dark.tmTheme"
             },
             {
@@ -350,7 +358,7 @@
             },
             {
                 "label": "Base16 Summerfruit Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-summerfruit.dark.tmTheme"
             },
             {
@@ -360,7 +368,7 @@
             },
             {
                 "label": "Base16 Tomorrow Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-tomorrow.dark.tmTheme"
             },
             {
@@ -370,7 +378,7 @@
             },
             {
                 "label": "Base16 Twilight Dark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/base16-twilight.dark.tmTheme"
             },
             {

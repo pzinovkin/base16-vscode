@@ -1,5 +1,5 @@
 # Base 16 Themes
-This is a conversion for the [Base 16 themes](https://github.com/chriskempson/base16-textmate) for TextMate/Sublime.
+This is a port of the [Base 16 themes](https://github.com/chriskempson/base16-textmate) for TextMate/Sublime.
 
 ## The Themes
 
@@ -43,10 +43,7 @@ Included are the **dark** and **light** variations of the following themes:
 * Twilight
 
 ## Demos
-You can view most of the themes on the [Base 16 demo site](http://chriskempson.github.io/base16/).
-
-## Repository
-[GitHub](https://github.com/AndrsDC/base16-vscode).
+You can view **most** of the themes on the [Base 16 demo site](http://chriskempson.github.io/base16/).
 
 ## License
-See [LICENSE](https://github.com/AndrsDC/base16-vscode/blob/master/LICENSE.txt)
+[MIT](https://github.com/AndrsDC/base16-vscode/blob/master/LICENSE.txt)
