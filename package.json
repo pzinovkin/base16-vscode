@@ -1,0 +1,383 @@
+{
+    "name": "base16-themes",
+    "displayName": "Base16 Themes",
+    "description": "Base 16 themes ported from TextMate/Sublime",
+    "version": "1.0.2",
+    "publisher": "AndrsDC",
+    "keywords": [
+        "base16",
+        "dark",
+        "light",
+        "themes"
+    ],
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Base16 3024 Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-3024.dark.tmTheme"
+            },
+            {
+                "label": "Base16 3024 Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-3024.light.tmTheme"
+            },
+            {
+                "label": "Base16 Apathy Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-apathy.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Apathy Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-apathy.light.tmTheme"
+            },
+            {
+                "label": "Base16 Ashes Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-ashes.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Ashes Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-ashes.light.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Dune Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierdune.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Dune Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierdune.light.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Forest Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierforest.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Forest Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierforest.light.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Heath Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierheath.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Heath Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierheath.light.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Lakeside Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierlakeside.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Lakeside Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierlakeside.light.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Seaside Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierseaside.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Atelier Seaside Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-atelierseaside.light.tmTheme"
+            },
+            {
+                "label": "Base16 Bespin Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-bespin.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Bespin Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-bespin.light.tmTheme"
+            },
+            {
+                "label": "Base16 Brewer Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-brewer.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Brewer Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-brewer.light.tmTheme"
+            },
+            {
+                "label": "Base16 Bright Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-bright.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Bright Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-bright.light.tmTheme"
+            },
+            {
+                "label": "Base16 Chalk Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-chalk.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Chalk Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-chalk.light.tmTheme"
+            },
+            {
+                "label": "Base16 Codeschool Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-codeschool.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Codeschool Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-codeschool.light.tmTheme"
+            },
+            {
+                "label": "Base16 Colors Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-colors.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Colors Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-colors.light.tmTheme"
+            },
+            {
+                "label": "Base16 Default Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-default.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Default Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-default.light.tmTheme"
+            },
+            {
+                "label": "Base16 Eighties Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-eighties.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Eighties Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-eighties.light.tmTheme"
+            },
+            {
+                "label": "Base16 Embers Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-embers.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Embers Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-embers.light.tmTheme"
+            },
+            {
+                "label": "Base16 Flat Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-flat.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Flat Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-flat.light.tmTheme"
+            },
+            {
+                "label": "Base16 Google Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-google.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Google Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-google.light.tmTheme"
+            },
+            {
+                "label": "Base16 Grayscale Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-grayscale.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Grayscale Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-grayscale.light.tmTheme"
+            },
+            {
+                "label": "Base16 Greenscreen Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-greenscreen.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Greenscreen Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-greenscreen.light.tmTheme"
+            },
+            {
+                "label": "Base16 Harmonic16 Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-harmonic16.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Harmonic16 Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-harmonic16.light.tmTheme"
+            },
+            {
+                "label": "Base16 Isotope Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-isotope.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Isotope Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-isotope.light.tmTheme"
+            },
+            {
+                "label": "London Tube Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-londontube.dark.tmTheme"
+            },
+            {
+                "label": "London Tube Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-londontube.light.tmTheme"
+            },
+            {
+                "label": "Base16 Marrakesh Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-marrakesh.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Marrakesh Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-marrakesh.light.tmTheme"
+            },
+            {
+                "label": "Base16 Mocha Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-mocha.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Mocha Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-mocha.light.tmTheme"
+            },
+            {
+                "label": "Base16 Monokai Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-monokai.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Monokai Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-monokai.light.tmTheme"
+            },
+            {
+                "label": "Base16 Ocean Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-ocean.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Ocean Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-ocean.light.tmTheme"
+            },
+            {
+                "label": "Base16 Paraiso Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-paraiso.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Paraiso Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-paraiso.light.tmTheme"
+            },
+            {
+                "label": "Base16 Pop Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-pop.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Pop Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-pop.light.tmTheme"
+            },
+            {
+                "label": "Base16 Railscasts Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-railscasts.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Railscasts Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-railscasts.light.tmTheme"
+            },
+            {
+                "label": "Base16 Shapeshifter Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-shapeshifter.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Shapeshifter Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-shapeshifter.light.tmTheme"
+            },
+            {
+                "label": "Base16 Solarized Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-solarized.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Solarized Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-solarized.light.tmTheme"
+            },
+            {
+                "label": "Base16 Summerfruit Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-summerfruit.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Summerfruit Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-summerfruit.light.tmTheme"
+            },
+            {
+                "label": "Base16 Tomorrow Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-tomorrow.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Tomorrow Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-tomorrow.light.tmTheme"
+            },
+            {
+                "label": "Base16 Twilight Dark",
+                "uiTheme": "vs",
+                "path": "./themes/base16-twilight.dark.tmTheme"
+            },
+            {
+                "label": "Base16 Twilight Light",
+                "uiTheme": "vs",
+                "path": "./themes/base16-twilight.light.tmTheme"
+            }
+        ]
+    }
+}
