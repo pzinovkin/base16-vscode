@@ -307,6 +307,11 @@
                 "path": "./themes/base16-ocean.light.tmTheme"
             },
             {
+                "label": "Base16 Oceanic Next Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-oceanicnext.dark.tmTheme"
+            },
+            {
                 "label": "Base16 Paraiso Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/base16-paraiso.dark.tmTheme"
