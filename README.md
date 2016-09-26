@@ -33,6 +33,7 @@ Included are the **dark** and **light** variations of the following themes:
 * Mocha
 * Monokai
 * Ocean
+* Oceanic Next
 * Paraiso
 * Pop
 * Railscasts

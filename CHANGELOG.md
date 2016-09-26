@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.0.5
+* Added Oceanic Next theme (thanks to jimah)
+
 ## v1.0.4
 * Added this Changelog
 * Changed *uiTheme* tag for dark themes in package.json: vs => vs-dark
