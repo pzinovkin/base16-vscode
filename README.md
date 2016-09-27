@@ -1,6 +1,9 @@
 # Base 16 Themes
 This is a port of the [Base 16 themes](https://github.com/chriskempson/base16-textmate) for TextMate/Sublime.
 
+## Changelog
+[See it](https://github.com/AndrsDC/base16-vscode/blob/master/CHANGELOG.md)
+
 ## The Themes
 
 Included are the **dark** and **light** variations of the following themes:
