@@ -1,10 +1,13 @@
 # CHANGELOG
 
+## v1.0.7
+* Added Unikitty theme (requested on [issue #2](https://github.com/AndrsDC/base16-vscode/issues/2))
+
 ## v1.0.6
 * Separated Dark and Light themes to make it easier to choose a theme
 
 ## v1.0.5
-* Added Oceanic Next theme (thanks to jimah)
+* Added Oceanic Next theme (thanks to **jimah**)
 
 ## v1.0.4
 * Added this Changelog

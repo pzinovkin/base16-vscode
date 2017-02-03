@@ -45,6 +45,7 @@ Included are the **dark** and **light** variations of the following themes:
 * Summerfruit
 * Tomorrow
 * Twilight
+* Unikitty
 
 ## Demos
 You can view **most** of the themes on the [Base 16 demo site](http://chriskempson.github.io/base16/).
