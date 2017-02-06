@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v1.1.0
+## v1.1.1
 * Added Unikitty theme (requested on [issue #2](https://github.com/AndrsDC/base16-vscode/issues/2))
 
 ## v1.0.6

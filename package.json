@@ -2,7 +2,7 @@
     "name": "base16-themes",
     "displayName": "Base16 Themes",
     "description": "Base 16 themes ported from TextMate/Sublime",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "AndrsDC",
     "keywords": [
         "base16",
