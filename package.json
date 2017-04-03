@@ -217,6 +217,11 @@
                 "path": "./themes/base16-unikitty-dark.tmTheme"
             },
             {
+                "label": "Base16 Dark Woodland",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-woodland.dark.tmTheme"
+            },
+            {
                 "label": "Base16 Light 3024",
                 "uiTheme": "vs",
                 "path": "./themes/base16-3024.light.tmTheme"
