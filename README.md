@@ -46,6 +46,7 @@ Included are the **dark** and **light** variations of the following themes:
 * Tomorrow
 * Twilight
 * Unikitty
+* Woodland
 
 ## Demos
 You can view **most** of the themes on the [Base 16 demo site](http://chriskempson.github.io/base16/).
