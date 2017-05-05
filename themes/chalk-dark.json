@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Chalk",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#505050",
 		"editor.lineHighlightBackground": "#50505055",
 		"editor.selectionBackground": "#303030"
-	},
-	"name": "Base16 Chalk Dark"
+	}
 }

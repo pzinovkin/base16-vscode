@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Atelier Dune",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#7d7a68",
 		"editor.lineHighlightBackground": "#7d7a6855",
 		"editor.selectionBackground": "#6e6b5e"
-	},
-	"name": "Base16 Atelier Dune Dark"
+	}
 }

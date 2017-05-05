@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Paraiso",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#b9b6b0",
 		"editor.lineHighlightBackground": "#8d868755",
 		"editor.selectionBackground": "#b9b6b0"
-	},
-	"name": "Base16 Paraiso Light"
+	}
 }

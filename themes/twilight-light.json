@@ -1,4 +1,5 @@
 {
+  "name": "Base16 Light Twilight",
   "type": "light",
   "colors": {
     "editor.background": "#ffffff",

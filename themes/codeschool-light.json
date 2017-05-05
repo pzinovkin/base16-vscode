@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Codeschool",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#a7cfa3",
 		"editor.lineHighlightBackground": "#84898c55",
 		"editor.selectionBackground": "#a7cfa3"
-	},
-	"name": "Base16 Codeschool Light"
+	}
 }

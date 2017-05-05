@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Atelier Lakeside",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#c1e4f6",
 		"editor.lineHighlightBackground": "#7195a855",
 		"editor.selectionBackground": "#c1e4f6"
-	},
-	"name": "Base16 Atelier Lakeside Light"
+	}
 }

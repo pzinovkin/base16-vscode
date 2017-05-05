@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Brewer",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#737475",
 		"editor.lineHighlightBackground": "#73747555",
 		"editor.selectionBackground": "#515253"
-	},
-	"name": "Base16 Brewer Dark"
+	}
 }

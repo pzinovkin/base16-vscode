@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Solarized",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#eee8d5",
 		"editor.lineHighlightBackground": "#83949655",
 		"editor.selectionBackground": "#eee8d5"
-	},
-	"name": "Base16 Solarized Light"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Codeschool",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#3f4944",
 		"editor.lineHighlightBackground": "#3f494455",
 		"editor.selectionBackground": "#2a343a"
-	},
-	"name": "Base16 Codeschool Dark"
+	}
 }

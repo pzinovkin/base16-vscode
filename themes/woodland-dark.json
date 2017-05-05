@@ -1,4 +1,5 @@
 {
+  "name": "Base16 Dark Woodland",
   "type": "dark",
   "colors": {
     "editor.background": "#231e18",

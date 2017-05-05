@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Solarized",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#657b83",
 		"editor.lineHighlightBackground": "#657b8355",
 		"editor.selectionBackground": "#586e75"
-	},
-	"name": "Base16 Solarized Dark"
+	}
 }

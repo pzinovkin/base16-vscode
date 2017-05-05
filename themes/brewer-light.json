@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Brewer",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#dadbdc",
 		"editor.lineHighlightBackground": "#95969755",
 		"editor.selectionBackground": "#dadbdc"
-	},
-	"name": "Base16 Brewer Light"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Eighties",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#e8e6df",
 		"editor.lineHighlightBackground": "#a09f9355",
 		"editor.selectionBackground": "#e8e6df"
-	},
-	"name": "Base16 Eighties Light"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Google",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#e0e0e0",
 		"editor.lineHighlightBackground": "#b4b7b455",
 		"editor.selectionBackground": "#e0e0e0"
-	},
-	"name": "Base16 Google Light"
+	}
 }

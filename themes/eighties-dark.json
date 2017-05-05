@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Eighties",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#747369",
 		"editor.lineHighlightBackground": "#74736955",
 		"editor.selectionBackground": "#515151"
-	},
-	"name": "Base16 Eighties Dark"
+	}
 }

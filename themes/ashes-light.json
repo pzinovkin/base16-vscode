@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Ashes",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#DFE2E5",
 		"editor.lineHighlightBackground": "#ADB3BA55",
 		"editor.selectionBackground": "#DFE2E5"
-	},
-	"name": "Base16 Ashes Light"
+	}
 }

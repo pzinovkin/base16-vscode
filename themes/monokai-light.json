@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Monokai",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#f5f4f1",
 		"editor.lineHighlightBackground": "#a59f8555",
 		"editor.selectionBackground": "#f5f4f1"
-	},
-	"name": "Base16 Monokai Light"
+	}
 }

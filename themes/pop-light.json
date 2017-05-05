@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Pop",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -351,6 +353,5 @@
 		"editorWhitespace.foreground": "#e0e0e0",
 		"editor.lineHighlightBackground": "#d0d0d0",
 		"editor.selectionBackground": "#e0e0e0"
-	},
-	"name": "Base16 Pop Light"
+	}
 }

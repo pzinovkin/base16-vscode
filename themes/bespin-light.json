@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Bespin",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#9d9b97",
 		"editor.lineHighlightBackground": "#79797755",
 		"editor.selectionBackground": "#9d9b97"
-	},
-	"name": "Base16 Bespin Light"
+	}
 }

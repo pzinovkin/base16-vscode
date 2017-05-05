@@ -1,4 +1,5 @@
 {
+  "name": "Base16 Dark Twilight",
   "type": "dark",
   "colors": {
     "editor.background": "#1e1e1e",

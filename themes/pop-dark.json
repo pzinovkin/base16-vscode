@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Pop",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -351,6 +353,5 @@
 		"editorWhitespace.foreground": "#505050",
 		"editor.lineHighlightBackground": "#202020",
 		"editor.selectionBackground": "#303030"
-	},
-	"name": "Base16 Pop Dark"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Apathy",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#2B685E",
 		"editor.lineHighlightBackground": "#2B685E55",
 		"editor.selectionBackground": "#184E45"
-	},
-	"name": "Base16 Apathy Dark"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Colors",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#777777",
 		"editor.lineHighlightBackground": "#77777755",
 		"editor.selectionBackground": "#555555"
-	},
-	"name": "Base16 Colors Dark"
+	}
 }

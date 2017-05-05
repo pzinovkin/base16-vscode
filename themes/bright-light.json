@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Bright",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#f5f5f5",
 		"editor.lineHighlightBackground": "#d0d0d055",
 		"editor.selectionBackground": "#f5f5f5"
-	},
-	"name": "Base16 Bright Light"
+	}
 }

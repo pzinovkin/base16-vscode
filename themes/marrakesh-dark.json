@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Marrakesh",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#6c6823",
 		"editor.lineHighlightBackground": "#6c682355",
 		"editor.selectionBackground": "#5f5b17"
-	},
-	"name": "Base16 Marrakesh Dark"
+	}
 }

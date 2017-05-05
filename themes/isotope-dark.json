@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Isotope",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#808080",
 		"editor.lineHighlightBackground": "#80808055",
 		"editor.selectionBackground": "#606060"
-	},
-	"name": "Base16 Isotope Dark"
+	}
 }

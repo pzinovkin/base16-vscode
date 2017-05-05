@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light 3024",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#d6d5d4",
 		"editor.lineHighlightBackground": "#807d7c55",
 		"editor.selectionBackground": "#d6d5d4"
-	},
-	"name": "Base16 3024 Light"
+	}
 }

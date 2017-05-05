@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Bespin",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#666666",
 		"editor.lineHighlightBackground": "#66666655",
 		"editor.selectionBackground": "#5e5d5c"
-	},
-	"name": "Base16 Bespin Dark"
+	}
 }

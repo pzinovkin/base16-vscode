@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Ocean",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#65737e",
 		"editor.lineHighlightBackground": "#65737e55",
 		"editor.selectionBackground": "#4f5b66"
-	},
-	"name": "Base16 Ocean Dark"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Mocha",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#e9e1dd",
 		"editor.lineHighlightBackground": "#b8afad55",
 		"editor.selectionBackground": "#e9e1dd"
-	},
-	"name": "Base16 Mocha Light"
+	}
 }

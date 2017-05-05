@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Marrakesh",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#ccc37a",
 		"editor.lineHighlightBackground": "#86813b55",
 		"editor.selectionBackground": "#ccc37a"
-	},
-	"name": "Base16 Marrakesh Light"
+	}
 }

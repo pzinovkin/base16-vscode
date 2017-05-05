@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Harmonic16",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#627e99",
 		"editor.lineHighlightBackground": "#627e9955",
 		"editor.selectionBackground": "#405c79"
-	},
-	"name": "Base16 harmonic16 Dark"
+	}
 }

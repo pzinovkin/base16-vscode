@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Green Screen",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#007700",
 		"editor.lineHighlightBackground": "#00770055",
 		"editor.selectionBackground": "#005500"
-	},
-	"name": "Base16 Green Screen Dark"
+	}
 }

@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Ocean",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#dfe1e8",
 		"editor.lineHighlightBackground": "#a7adba55",
 		"editor.selectionBackground": "#dfe1e8"
-	},
-	"name": "Base16 Ocean Light"
+	}
 }

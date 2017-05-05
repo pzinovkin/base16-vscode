@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Grayscale",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#525252",
 		"editor.lineHighlightBackground": "#52525255",
 		"editor.selectionBackground": "#464646"
-	},
-	"name": "Base16 Grayscale Dark"
+	}
 }

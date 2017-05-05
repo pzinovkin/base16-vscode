@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Atelier Forest",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#e6e2e0",
 		"editor.lineHighlightBackground": "#9c949155",
 		"editor.selectionBackground": "#e6e2e0"
-	},
-	"name": "Base16 Atelier Forest Light"
+	}
 }

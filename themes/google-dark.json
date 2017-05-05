@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Google",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#969896",
 		"editor.lineHighlightBackground": "#96989655",
 		"editor.selectionBackground": "#373b41"
-	},
-	"name": "Base16 Google Dark"
+	}
 }

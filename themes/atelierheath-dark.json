@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Atelier Heath",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#776977",
 		"editor.lineHighlightBackground": "#77697755",
 		"editor.selectionBackground": "#695d69"
-	},
-	"name": "Base16 Atelier Heath Dark"
+	}
 }

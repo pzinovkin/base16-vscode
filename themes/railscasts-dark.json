@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Railscasts",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#5a647e",
 		"editor.lineHighlightBackground": "#5a647e55",
 		"editor.selectionBackground": "#3a4055"
-	},
-	"name": "Base16 Railscasts Dark"
+	}
 }

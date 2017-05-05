@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Apathy",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#A7CEC8",
 		"editor.lineHighlightBackground": "#5F9C9255",
 		"editor.selectionBackground": "#A7CEC8"
-	},
-	"name": "Base16 Apathy Light"
+	}
 }

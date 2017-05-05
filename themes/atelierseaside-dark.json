@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark Atelier Seaside",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#687d68",
 		"editor.lineHighlightBackground": "#687d6855",
 		"editor.selectionBackground": "#5e6e5e"
-	},
-	"name": "Base16 Atelier Seaside Dark"
+	}
 }

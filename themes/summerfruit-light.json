@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Summerfruit",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#E0E0E0",
 		"editor.lineHighlightBackground": "#B0B0B055",
 		"editor.selectionBackground": "#E0E0E0"
-	},
-	"name": "Base16 Summerfruit Light"
+	}
 }

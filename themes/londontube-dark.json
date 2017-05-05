@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Dark London Tube",
+	"type": "dark",
 	"tokenColors": [
 		{
 			"settings": {
@@ -370,6 +372,5 @@
 		"editorWhitespace.foreground": "#737171",
 		"editor.lineHighlightBackground": "#73717155",
 		"editor.selectionBackground": "#5a5758"
-	},
-	"name": "Base16 London Tube Dark"
+	}
 }

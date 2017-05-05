@@ -1,4 +1,6 @@
 {
+	"name": "Base16 Light Embers",
+	"type": "light",
 	"tokenColors": [
 		{
 			"settings": {
@@ -367,6 +369,5 @@
 		"editorWhitespace.foreground": "#BEB6AE",
 		"editor.lineHighlightBackground": "#8A807555",
 		"editor.selectionBackground": "#BEB6AE"
-	},
-	"name": "Base16 Embers Light"
+	}
 }
