@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.2.2
+* Minor correction of the theme names in the selector
+
 ## v1.2.1
 * Converted themes to Visual Studio Code color theme files (.json)
 * Fixed Unikitty Dark theme to show dark sidebar and tab bar
