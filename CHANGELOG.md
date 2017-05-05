@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v1.2.1
+* Converted themes to Visual Studio Code color theme files (.json)
+* Fixed Unikitty Dark theme to show dark sidebar and tab bar
+* Other minor additions/fixes/changes
+
 ## v1.1.2
 * Added Woodland theme (thanks to **gigyas**)
 
