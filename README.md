@@ -52,4 +52,4 @@ Included are the **dark** and **light** variations of the following themes:
 You can view **most** of the themes on the [Base 16 demo site](http://chriskempson.github.io/base16/).
 
 ## License
-[MIT](https://github.com/AndrsDC/base16-vscode/blob/master/LICENSE.txt)
+[MIT](https://github.com/AndrsDC/base16-vscode/blob/master/LICENSE.md)

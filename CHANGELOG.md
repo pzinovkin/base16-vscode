@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v1.2.3
+* Added SVG icon
+* Changed background color on store page
+* Typo in REAME.md
+
 ## v1.2.2
 * Minor correction of the theme names in the selector
 
