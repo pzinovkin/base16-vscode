@@ -1,7 +1,7 @@
 # CHANGELOG
 
-## v1.2.3
-* Added SVG icon
+## v1.2.4
+* Added SVG icon, fixed PNG
 * Changed background color on store page
 * Typo in REAME.md
 
