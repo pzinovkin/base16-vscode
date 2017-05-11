@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v1.3.0
+* Workbench theming: 3024 (Dark & Light), Apathy (Dark & Light)
+* Minor bug fixes
+* Updated README
+
 ## v1.2.4
 * Added SVG icon, fixed PNG
 * Changed background color on store page

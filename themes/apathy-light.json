@@ -374,7 +374,7 @@
 		"sideBar.background": "#dbebe9",
 		"sideBarTitle.foreground": "#184e45",
 		// Workbench: Activity Bar
-		"activityBar.background": "#dbebe9",
+		"activityBar.background": "#bdcfcd",
 		"activityBar.foreground": "#184e45",
 		"activityBarBadge.background": "#7e8a88",
 		// Workbench: Status Bar
@@ -385,26 +385,25 @@
 		"statusBarItem.prominentBackground": "#93a19f",
 		"statusBarItem.prominentHoverBackground": "#93a19f99",
 		// Workbench: Editor Groups
-		"editorGroup.background": "#e8f3f1",
+		"editorGroup.background": "#bdcfcd",
 		"editorGroup.border": "#184e45",
 		"editorGroup.dropBackground": "#a7cec8",
-		"editorGroupHeader.tabsBackground": "#e8f3f1",
+		"editorGroupHeader.tabsBackground": "#bdcfcd",
 		"tab.activeBackground": "#d2e7e4",
-		"tab.inactiveBackground": "#e8f3f1",
+		"tab.inactiveBackground": "#bdcfcd",
 		// Workbench: Notifications
-		"notification.background": "#7e8a88",
+		"notification.background": "#184e45",
 		// Dropdown Control
 		"dropdown.background": "#bdcfcd",
-		// "dropdown.border": "",
-		"dropdown.foreground": "#dbebe9",
+		"dropdown.foreground": "#184e45",
 		// Button Control
-		"button.background": "#184e45",
-		"button.foreground": "#e8f3f1",
+		"button.background": "#7e8a88",
+		"button.foreground": "#184e45",
 		// Lists and Trees
-		"list.activeSelectionBackground": "#accec9",
-		"list.dropBackground": "#accec9",
-		"list.focusBackground": "#accec9",
-		"list.hoverBackground": "#accec9",
-		"list.inactiveSelectionBackground": "#accec9"
+		"list.activeSelectionBackground": "#bdcfcd",
+		"list.dropBackground": "#bdcfcd",
+		"list.focusBackground": "#bdcfcd",
+		"list.hoverBackground": "#bdcfcd",
+		"list.inactiveSelectionBackground": "#bdcfcd"
 	}
 }
