@@ -377,8 +377,8 @@
 		"sideBar.background": "#080200",
 		"sideBarTitle.foreground": "#b5b3b2",
 		// Workbench: Activity Bar
-		"activityBar.background": "#211c19",
 		"activityBar.foreground": "#b5b3b2",
+		"activityBar.background": "#211c19",
 		"activityBarBadge.background": "#949494",
 		// Workbench: Status Bar
 		"statusBar.foreground": "#b5b3b2",
