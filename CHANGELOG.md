@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.3.1
+* Workbench theming: Ashes (Dark & Light)
+
 ## v1.3.0
 * Workbench theming: 3024 (Dark & Light), Apathy (Dark & Light)
 * Minor bug fixes
