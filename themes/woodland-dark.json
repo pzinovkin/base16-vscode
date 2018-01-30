@@ -1,14 +1,6 @@
 {
   "name": "Base16 Dark Woodland",
   "type": "dark",
-  "colors": {
-    "editor.background": "#231e18",
-    "editor.foreground": "#cabcb1",
-    "editor.selectionBackground": "#48413a",
-    "editor.lineHighlightBackground": "#9d8b7055",
-    "editorCursor.foreground": "#cabcb1",
-    "editorWhitespace.foreground": "#9d8b70"
-  },
   "tokenColors": [
     {
       "settings": {
@@ -356,5 +348,50 @@
         "foreground": "#b267e6"
       }
     }
-  ]
+  ],
+  "colors": {
+    // Editor Colors
+    "editor.background": "#231e18", //primary
+    "editorCursor.foreground": "#cabcb1",
+    "editor.foreground": "#cabcb1",
+    "editorWhitespace.foreground": "#9d8b70",
+    "editor.lineHighlightBackground": "#9d8b7055",
+    "editor.selectionBackground": "#48413a",
+    // Workbench: Side Bar
+    "sideBar.background": "#1f1b15", // 2nd shade
+    "sideBarTitle.foreground": "#cabcb1",
+    // Workbench: Activity Bar
+    "activityBar.foreground": "#cabcb1",
+    "activityBar.background": "#38342f", // 2nd tint
+    "activityBarBadge.background": "#7b7874", //5th tint
+    // Workbench: Status Bar
+    "statusBar.foreground": "#cabcb1",
+    "statusBar.background": "#38342f",
+    "statusBar.debuggingBackground": "#7b7874",
+    "statusBar.noFolderBackground": "#7b7874",
+    "statusBarItem.prominentBackground": "#a7a5a2", // 7th tint
+    "statusBarItem.prominentHoverBackground": "#a7a5a299",
+    // Workbench: Editor Groups
+    "editorGroup.background": "#38342f",
+    "editorGroup.border": "#cabcb1",
+    "editorGroup.dropBackground": "#4a4543",
+    "editorGroupHeader.tabsBackground": "#38342f",
+    "tab.activeBackground": "#231e18",
+    "tab.inactiveBackground": "#38342f",
+    // Workbench: Notifications
+    "notification.background": "#6b6766",
+    // Dropdown Control
+    "dropdown.background": "#a5a2a2",
+    // "dropdown.border": "",
+    "dropdown.foreground": "#1f1b15",
+    // Button Control
+    "button.background": "#4a4543",
+    "button.foreground": "#cabcb1",
+    // Lists and Trees
+    "list.activeSelectionBackground": "#38342f",
+    "list.dropBackground": "#38342f",
+    "list.focusBackground": "#38342f",
+    "list.hoverBackground": "#38342f",
+    "list.inactiveSelectionBackground": "#38342f"
+  }
 }

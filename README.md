@@ -9,20 +9,20 @@ You can view **most** of the themes on this pack on the [Base 16 demo site](http
 |:-----------------------|:-----:|:-----:|:-----------------:|
 | 3024                   | x     | x     | x                 |
 | Apathy                 | x     | x     | x                 |
-| Ashes                  | x     | x     |                   |
-| Atelier Dune           | x     | x     |                   |
-| Atelier Forest         | x     | x     |                   |
-| Atelier Heath          | x     | x     |                   |
-| Atelier Lakeside       | x     | x     |                   |
-| Atelier Seaside        | x     | x     |                   |
-| Bespin                 | x     | x     |                   |
+| Ashes                  | x     | x     | x                 |
+| Atelier Dune           | x     | x     | x                 |
+| Atelier Forest         | x     | x     | x                 |
+| Atelier Heath          | x     | x     | x                 |
+| Atelier Lakeside       | x     | x     | x                 |
+| Atelier Seaside        | x     | x     | x                 |
+| Bespin                 | x     | x     | x                 |
 | Brewer                 | x     | x     |                   |
 | Bright                 | x     | x     |                   |
 | Chalk                  | x     | x     |                   |
 | Codeschool             | x     | x     |                   |
 | Colors                 | x     | x     |                   |
 | Default                | x     | x     |                   |
-| Eighties               | x     | x     |                   |
+| Eighties               | x     | x     | x                 |
 | Embers                 | x     | x     |                   |
 | Flat                   | x     | x     |                   |
 | Google                 | x     | x     |                   |
@@ -35,7 +35,7 @@ You can view **most** of the themes on this pack on the [Base 16 demo site](http
 | Mocha                  | x     | x     |                   |
 | Monokai                | x     | x     |                   |
 | Ocean                  | x     | x     |                   |
-| Oceanic Next           | x     |       |                   |
+| Oceanic Next           | x     |       | x                 |
 | Paraiso                | x     | x     |                   |
 | Pop                    | x     | x     |                   |
 | Railscasts             | x     | x     |                   |
@@ -44,8 +44,8 @@ You can view **most** of the themes on this pack on the [Base 16 demo site](http
 | Summerfruit            | x     | x     |                   |
 | Tomorrow               | x     | x     |                   |
 | Twilight               | x     | x     |                   |
-| Unikitty               | x     | x     |                   |
-| Woodland               | x     |       |                   |
+| Unikitty               | x     | x     | x                 |
+| Woodland               | x     |       | x                 |
 
 ## [Changelog](https://github.com/AndrsDC/base16-vscode/blob/master/CHANGELOG.md)
 

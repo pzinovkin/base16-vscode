@@ -1,14 +1,6 @@
 {
   "name": "Base16 Dark Unikitty",
   "type": "light",
-  "colors": {
-    "editor.background": "#ffffff",
-    "editor.foreground": "#6c696e",
-    "editor.selectionBackground": "#c4c3c5",
-    "editor.lineHighlightBackground": "#a7a5a855",
-    "editorCursor.foreground": "#6c696e",
-    "editorWhitespace.foreground": "#a7a5a8"
-  },
   "tokenColors": [
     {
       "settings": {
@@ -356,5 +348,49 @@
         "foreground": "#800080"
       }
     }
-  ]
+  ],
+  "colors": {
+    // Editor Colors
+    "editor.background": "#ffffff", // primary
+    "editorCursor.foreground": "#6c696e",
+    "editor.foreground": "#6c696e",
+    "editorWhitespace.foreground": "#a7a5a8",
+    "editor.lineHighlightBackground": "#a7a5a855",
+    "editor.selectionBackground": "#c4c3c5",
+    // Workbench: Side Bar
+    "sideBar.background": "#cccccc", // 3rd tint
+    "sideBarTitle.foreground": "#6c696e",
+    // Workbench: Activity Bar
+    "activityBar.background": "#e5e5e5", // 2nd tint
+    "activityBar.foreground": "#6c696e",
+    "activityBarBadge.background": "#999999", // 5th tint
+    // Workbench: Status Bar
+    "statusBar.background": "#e5e5e5",
+    "statusBar.foreground": "#6c696e",
+    "statusBar.debuggingBackground": "#999999",
+    "statusBar.noFolderBackground": "#999999",
+    "statusBarItem.prominentBackground": "#b2b2b2", //4th tint
+    "statusBarItem.prominentHoverBackground": "#b2b2b299",
+    // Workbench: Editor Groups
+    "editorGroup.background": "#e5e5e5",
+    "editorGroup.border": "#6c696e",
+    "editorGroup.dropBackground": "#a7a5a8",
+    "editorGroupHeader.tabsBackground": "#e5e5e5",
+    "tab.activeBackground": "#ffffff",
+    "tab.inactiveBackground": "#e5e5e5",
+    // Workbench: Notifications
+    "notification.background": "#6c696e",
+    // Dropdown Control
+    "dropdown.background": "#e5e5e5",
+    "dropdown.foreground": "#6c696e",
+    // Button Control
+    "button.background": "#999999",
+    "button.foreground": "#6c696e",
+    // Lists and Trees
+    "list.activeSelectionBackground": "#e5e5e5",
+    "list.dropBackground": "#e5e5e5",
+    "list.focusBackground": "#e5e5e5",
+    "list.hoverBackground": "#e5e5e5",
+    "list.inactiveSelectionBackground": "#e5e5e5"
+  }
 }

@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## v1.4.0
+* Changed workbench theming colors:
+  * 3024 (Dark & Light)
+  * Apathy (Dark & Light)
+  * Ashes (Dark & Light)
+* Workbench theming:
+  * Atelier Dune (Dark & Light)
+  * Atelier Forest (Dark & Light)
+  * Atelier Heath (Dark & Light)
+  * Atelier Lakeside (Dark & Light)
+  * Atelier Seaside (Dark & Light)
+  * Bespin (Dark & Light)
+  * Eighties (Dark & Light)
+  * Oceanic Next (Dark)
+  * Unikitty (Dark & Light)
+  * Woodland (Dark)
+
 ## v1.3.1
 * Workbench theming: Ashes (Dark & Light)
 

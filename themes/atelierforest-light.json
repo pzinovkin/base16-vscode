@@ -364,46 +364,46 @@
 	],
 	"colors": {
 		// Editor Colors
-		"editor.background": "#F1EFEE",
+		"editor.background": "#F1EFEE", // primary
 		"editorCursor.foreground": "#68615E",
 		"editor.foreground": "#68615E",
 		"editorWhitespace.foreground": "#E6E2E0",
 		"editor.lineHighlightBackground": "#9C949155",
 		"editor.selectionBackground": "#E6E2E0",
 		// Workbench: Side Bar
-		"sideBar.background": "#F2F0EF",
+		"sideBar.background": "#f3f2f1", // 3rd tint
 		"sideBarTitle.foreground": "#68615E",
 		// Workbench: Activity Bar
-		"activityBar.background": "#D8D7D6",
+		"activityBar.background": "#d8d7d6", // 2nd shade
 		"activityBar.foreground": "#68615E",
-		"activityBarBadge.background": "#A8A7A6",
+		"activityBarBadge.background": "#908f8e", // 5th shade
 		// Workbench: Status Bar
+		"statusBar.background": "#d8d7d6",
 		"statusBar.foreground": "#68615E",
-		"statusBar.background": "#D8D7D6",
-		"statusBar.debuggingBackground": "#A8A7A6",
-		"statusBar.noFolderBackground": "#A8A7A6",
-		"statusBarItem.prominentBackground": "#F9F8F8",
-		"statusBarItem.prominentHoverBackground": "#F9F8F899",
+		"statusBar.debuggingBackground": "#908f8e",
+		"statusBar.noFolderBackground": "#908f8e",
+		"statusBarItem.prominentBackground": "#a8a7a6", //4th shade
+		"statusBarItem.prominentHoverBackground": "#a8a7a699",
 		// Workbench: Editor Groups
-		"editorGroup.background": "#D8D7D6",
+		"editorGroup.background": "#d8d7d6",
 		"editorGroup.border": "#68615E",
 		"editorGroup.dropBackground": "#E6E2E0",
-		"editorGroupHeader.tabsBackground": "#D8D7D6",
+		"editorGroupHeader.tabsBackground": "#d8d7d6",
 		"tab.activeBackground": "#F1EFEE",
-		"tab.inactiveBackground": "#D8D7D6",
+		"tab.inactiveBackground": "#d8d7d6",
 		// Workbench: Notifications
 		"notification.background": "#68615E",
 		// Dropdown Control
-		"dropdown.background": "#D8D7D6",
+		"dropdown.background": "#d8d7d6",
 		"dropdown.foreground": "#68615E",
 		// Button Control
-		"button.background": "#A8A7A6",
+		"button.background": "#908f8e",
 		"button.foreground": "#68615E",
 		// Lists and Trees
-		"list.activeSelectionBackground": "#D8D7D6",
-		"list.dropBackground": "#D8D7D6",
-		"list.focusBackground": "#D8D7D6",
-		"list.hoverBackground": "#D8D7D6",
-		"list.inactiveSelectionBackground": "#D8D7D6"
+		"list.activeSelectionBackground": "#d8d7d6",
+		"list.dropBackground": "#d8d7d6",
+		"list.focusBackground": "#d8d7d6",
+		"list.hoverBackground": "#d8d7d6",
+		"list.inactiveSelectionBackground": "#d8d7d6"
 	}
 }
