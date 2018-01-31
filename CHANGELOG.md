@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v1.4.5
+* Added correct workbench theming for most themes. More coming shortly.
+
 ## v1.4.0
 * Changed workbench theming colors:
   * 3024 (Dark & Light)
