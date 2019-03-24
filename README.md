@@ -1,5 +1,19 @@
 # Base 16 Themes
+
 This is a port of the [Base 16 themes](https://github.com/chriskempson/base16-textmate) for TextMate/Sublime.
+
+
+Note: This is fork of https://github.com/AndrsDC/base16-vscode after it was broken in v1.4.5.
+Master branch reverted to v1.4.0 and version bumped to v1.5.0 to avoid conflicts with marketplace version.
+
+How to Build:
+```
+$ npm install -g vsce
+$ vsce package
+```
+
+Built extenstion can be found in releases section.
+
 
 ## The Themes
 
